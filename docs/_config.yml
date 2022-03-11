@@ -20,8 +20,8 @@
 
 
 # Serve on GitHub
-url: https://geoMOC.github.io/
-baseurl: "/gmoc-mpg-gis/"
+url: https://gisma-courses.github.io/
+baseurl: "/mpg-gis-MOF-1/"
 
 ##### Title ###################################################################
 title: GISMA course resources
